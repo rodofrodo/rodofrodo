@@ -1,4 +1,14 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Bartosz%20Strączek👋&fontSize=50&animation=fadeIn)
+
+![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Stack%20Overflow-%23ffffff?style=for-the-badge&logo=Stack%20Overflow&logoColor=%23ffffff&color=%23F58025)
+[![Static Badge](https://img.shields.io/badge/Hackerrank-%23ffffff?style=for-the-badge&logo=Hackerrank&logoColor=%23ffffff&color=%2300EA64)](https://www.hackerrank.com/profile/bartoszstraczek1)
+![Static Badge](https://img.shields.io/badge/LeetCode-%23ffffff?style=for-the-badge&logo=LeetCode&logoColor=%23ffffff&color=%23FFA116)
+![Static Badge](https://img.shields.io/badge/Gmail-%23ffffff?style=for-the-badge&logo=Gmail&logoColor=%23ffffff&color=%23EA4335)
+![Static Badge](https://img.shields.io/badge/Facebook-%23ffffff?style=for-the-badge&logo=Facebook&logoColor=%23ffffff&color=%231877F2)
+![Static Badge](https://img.shields.io/badge/Discord-%23ffffff?style=for-the-badge&logo=Discord&logoColor=%23ffffff&color=%235865F2)
+![Static Badge](https://img.shields.io/badge/Fiverr-%23ffffff?style=for-the-badge&logo=Fiverr&logoColor=%23ffffff&color=%231DBF73)
+
 
 <!--
 **rodofrodo/rodofrodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
