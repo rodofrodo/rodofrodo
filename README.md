@@ -38,8 +38,8 @@
 
 ## Support my work
 <p align="center">
-  <a href="https://coff.ee/nkbdev"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk1emtuOTJ1NWgyenA3cmdlbDh6bmJ5Zjd4Z2NxcjlxbnpwNDR2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7ssLleBvWvESbx0BuG/giphy.gif" width=250></a>
-  <a href="https://ko-fi.com/rodofrodo"><img src="assets/Ko-fi_COIN.gif" width=250></a>
+  <a href="https://coff.ee/nkbdev" target="_blank"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjk1emtuOTJ1NWgyenA3cmdlbDh6bmJ5Zjd4Z2NxcjlxbnpwNDR2ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7ssLleBvWvESbx0BuG/giphy.gif" width=250></a>
+  <a href="https://ko-fi.com/rodofrodo" target="_blank"><img src="assets/Ko-fi_COIN.gif" width=250></a>
 </p>
 
 <!--
