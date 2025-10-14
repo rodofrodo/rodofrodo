@@ -34,6 +34,7 @@
 | <img src="https://flagcdn.com/w40/gb.png" width="20"/> **English**    | █████████░ 90% |
 | <img src="https://flagcdn.com/w40/de.png" width="20"/> **German**     | █████░░░░░ 50% |
 | <img src="https://flagcdn.com/w40/fr.png" width="20"/> **French**     | ████░░░░░░ 40% |
+| <img src="https://flagcdn.com/w40/cn.png" width="20"/> **Mandarin**   | █░░░░░░░░░ 10% |
 | <img src="https://flagcdn.com/w40/jp.png" width="20"/> **Japanese**   | █░░░░░░░░░ 10% |
 
 ## Support my work
