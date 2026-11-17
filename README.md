@@ -5,7 +5,7 @@
 [![Static Badge](https://img.shields.io/badge/LeetCode-%23ffffff?style=for-the-badge&logo=LeetCode&logoColor=%23ffffff&color=%23FFA116)](https://leetcode.com/u/bartoszstraczek44/)
 [![Static Badge](https://img.shields.io/badge/Gmail-%23ffffff?style=for-the-badge&logo=Gmail&logoColor=%23ffffff&color=%23EA4335)](mailto:bartoszstraczek44@gmail.com)
 [![Static Badge](https://img.shields.io/badge/Discord-%23ffffff?style=for-the-badge&logo=Discord&logoColor=%23ffffff&color=%235865F2)](https://discordapp.com/users/533706169018089504)
-[![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-str%C4%85czek-08456a450/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-straczek)
 
 ## Skills
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
