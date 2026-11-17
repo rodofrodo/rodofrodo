@@ -1,14 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Bartosz%20Strączek👋&fontSize=50&animation=fadeIn)
 
 ## Links
-![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Stack%20Overflow-%23ffffff?style=for-the-badge&logo=Stack%20Overflow&logoColor=%23ffffff&color=%23F58025)
 [![Static Badge](https://img.shields.io/badge/Hackerrank-%23ffffff?style=for-the-badge&logo=Hackerrank&logoColor=%23ffffff&color=%2300EA64)](https://www.hackerrank.com/profile/bartoszstraczek1)
 [![Static Badge](https://img.shields.io/badge/LeetCode-%23ffffff?style=for-the-badge&logo=LeetCode&logoColor=%23ffffff&color=%23FFA116)](https://leetcode.com/u/bartoszstraczek44/)
-![Static Badge](https://img.shields.io/badge/Gmail-%23ffffff?style=for-the-badge&logo=Gmail&logoColor=%23ffffff&color=%23EA4335)
-![Static Badge](https://img.shields.io/badge/Facebook-%23ffffff?style=for-the-badge&logo=Facebook&logoColor=%23ffffff&color=%231877F2)
-![Static Badge](https://img.shields.io/badge/Discord-%23ffffff?style=for-the-badge&logo=Discord&logoColor=%23ffffff&color=%235865F2)
-![Static Badge](https://img.shields.io/badge/Fiverr-%23ffffff?style=for-the-badge&logo=Fiverr&logoColor=%23ffffff&color=%231DBF73)
+[![Static Badge](https://img.shields.io/badge/Gmail-%23ffffff?style=for-the-badge&logo=Gmail&logoColor=%23ffffff&color=%23EA4335)](mailto:bartoszstraczek44@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Discord-%23ffffff?style=for-the-badge&logo=Discord&logoColor=%23ffffff&color=%235865F2)](https://discordapp.com/users/533706169018089504)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bartosz-str%C4%85czek-08456a450/)
 
 ## Skills
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -17,6 +14,9 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](#)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
@@ -34,9 +34,6 @@
 |---------------|-------------|
 | <img src="https://flagcdn.com/w40/pl.png" width="20"/> **Polish**     | ██████████ 100% |
 | <img src="https://flagcdn.com/w40/gb.png" width="20"/> **English**    | █████████░ 90% |
-| <img src="https://flagcdn.com/w40/de.png" width="20"/> **German**     | ████░░░░░░ 40% |
-| <img src="https://flagcdn.com/w40/fr.png" width="20"/> **French**     | ███░░░░░░░ 30% |
-| <img src="https://flagcdn.com/w40/cn.png" width="20"/> **Mandarin**   | █░░░░░░░░░ 10% |
 
 ## Support my work
 <p align="center">
